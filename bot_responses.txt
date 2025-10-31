@@ -1,0 +1,100 @@
+✅ #162 - levelup
+✅ #163 - monsterfail
+✅ #164 - nightfever
+✅ #165 - ninjarun
+✅ #166 - peace
+✅ #167 - peekaboo
+✅ #168 - proposing
+✅ #169 - rainbow
+✅ #170 - robot
+
+[00:54:49] @_Kmi.77: !emote list
+[00:54:49] BOT → ✅ #171 - rofl
+✅ #172 - roll
+✅ #173 - ropepull
+✅ #174 - secrethandshake
+✅ #175 - sumofight
+✅ #176 - superpunch
+✅ #177 - superrun
+✅ #178 - theatrical
+✅ #179 - ibelieve
+✅ #180 - irritated
+
+[00:54:49] @_Kmi.77: !emote list
+[00:54:49] BOT → ✅ #181 - cozynap
+✅ #182 - relaxing
+✅ #183 - heropose
+✅ #184 - ponder
+✅ #185 - posh
+✅ #186 - poutyface
+✅ #187 - dab
+✅ #188 - gangnamstyle
+✅ #189 - sob
+✅ #190 - taploop
+
+[00:54:50] @_Kmi.77: !emote list
+[00:54:50] BOT → ✅ #191 - sleepy
+✅ #192 - wiggledance
+✅ #193 - eyeroll
+✅ #194 - moonwalk
+✅ #195 - fighter
+✅ #196 - renegade
+✅ #197 - facepalm
+✅ #198 - feelthebeat
+✅ #199 - happy
+✅ #200 - hug
+
+[00:54:50] @_Kmi.77: !emote list
+[00:54:50] BOT → ✅ #201 - slap
+✅ #202 - clap
+✅ #203 - exasperated
+✅ #204 - sweetsmooch
+✅ #205 - tapdance
+✅ #206 - thumbsuck
+✅ #207 - harlemshake
+✅ #208 - heartfingers
+✅ #209 - aerobics
+✅ #210 - heartshape
+
+[00:54:51] @_Kmi.77: !emote list
+[00:54:51] BOT → ✅ #211 - hearteyes
+✅ #212 - karmadance
+✅ #213 - gasp
+✅ #214 - think
+✅ #215 - stunned
+✅ #216 - embarrassed
+✅ #217 - blastoff
+✅ #218 - annoyed
+✅ #219 - dancezombie
+✅ #220 - chillin
+
+[00:54:51] @_Kmi.77: !emote list
+[00:54:51] BOT → ✅ #221 - frustrated
+✅ #222 - bummed
+✅ #223 - ghost
+✅ #224 - mindblown
+
+[00:54:52] @_Kmi.77: !emote list
+[00:54:52] BOT → 💡 Usa: [número] o [nombre] para hacer un emote
+[00:55:37] @_Kmi.77: !tele @CANTINERO_BOT
+[00:55:37] BOT → ❌ ¡Solo VIP pueden usar este comando!
+[01:02:53] @_Kmi.77: !tele @CANTINERO_BOT
+[01:02:53] BOT → ❌ ¡Solo VIP pueden usar este comando!
+[01:03:10] @_Kmi.77: !vip @_Kmi.77
+[01:03:10] BOT → ⭐ @_Kmi.77 ahora es VIP!
+[01:03:21] @_Kmi.77: !tele @CANTINERO_BOT
+[01:03:21] BOT → 🎯 Te has teletransportado a @CANTINERO_BOT!
+[01:07:07] @_Kmi.77: !tele @CANTINERO_BOT
+[01:07:07] BOT → 🎯 Te has teletransportado a @CANTINERO_BOT!
+[01:15:14] @_Kmi.77: !copyoutfit
+[01:15:14] BOT → 👔 Outfit copiado y guardado como #1
+[01:17:02] @_Kmi.77: !copyoutfit
+[01:17:02] BOT → 👔 Outfit copiado y guardado como #2
+[01:49:46] @_Kmi.77: !heartall
+[01:49:46] BOT → 💖 Enviaste ❤️ a todos los 1 jugadores en la sala!
+[01:49:46] @_Kmi.77: !heartall
+[01:49:46] BOT → ❌ Usa: !heart @username [cantidad]
+[01:49:58] @_Kmi.77: !heartall
+[01:49:58] BOT → 💖 Enviaste ❤️ a todos los 1 jugadores en la sala!
+[01:49:58] @_Kmi.77: !heartall
+[01:49:58] BOT → ❌ Usa: !heart @username [cantidad]

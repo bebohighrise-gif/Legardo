@@ -1,0 +1,150 @@
+[2025-10-31 00:48:26] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 00:48:26] [WHISPER] CANTINERO_BOT: Bienvenido a🕷️NOCTURNO 🕷️. El velo se ha abierto solo para ti. Tu presencia es una nueva sombra en nuestra oscuridad.
+[2025-10-31 00:48:28] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 00:48:29] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 00:48:29] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 00:48:29] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 00:48:32] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 00:50:26] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Viernes! 🌙
+[2025-10-31 00:50:52] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→4.0
+[2025-10-31 00:50:57] [FLASHMODE] Auto-flashmode _Kmi.77: Y:4.0→12.0
+[2025-10-31 00:51:02] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→4.0
+[2025-10-31 00:51:06] [FLASHMODE] Auto-flashmode _Kmi.77: Y:4.0→12.0
+[2025-10-31 00:51:10] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→4.4
+[2025-10-31 00:51:25] [FLASHMODE] Auto-flashmode _Kmi.77: Y:7.0→12.0
+[2025-10-31 00:51:39] [CHAT] [PUBLIC] _Kmi.77: !heartall
+[2025-10-31 00:51:48] [CHAT] [PUBLIC] _Kmi.77: !myid
+[2025-10-31 00:52:27] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @baby__lax. ¡Estamos para ayudarte!‼️
+[2025-10-31 00:52:33] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 00:52:33] [WHISPER] CANTINERO_BOT: Bienvenido a🕷️NOCTURNO 🕷️. El velo se ha abierto solo para ti. Tu presencia es una nueva sombra en nuestra oscuridad.
+[2025-10-31 00:52:35] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 00:52:35] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 00:52:35] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 00:52:35] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 00:52:38] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 00:53:42] [CHAT] [PUBLIC] _Kmi.77: !heartall
+[2025-10-31 00:53:56] [CHAT] [PUBLIC] _Kmi.77: vip
+[2025-10-31 00:53:56] [TELEPORT] _Kmi.77 accedió a zona VIP - X:16.0, Y:17.0, Z:19.0
+[2025-10-31 00:54:19] [CHAT] [PUBLIC] _Kmi.77: !heart @CANTINERO_BOT 100
+[2025-10-31 00:54:32] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Viernes! 🌙
+[2025-10-31 00:54:40] [CHAT] [PUBLIC] _Kmi.77: !emote list
+[2025-10-31 00:54:54] [CHAT] [PUBLIC] _Kmi.77: !info
+[2025-10-31 00:55:13] [CHAT] [PUBLIC] _Kmi.77: !wallet
+[2025-10-31 00:55:37] [CHAT] [PUBLIC] _Kmi.77: !tele @CANTINERO_BOT
+[2025-10-31 00:55:50] [CHAT] [PUBLIC] _Kmi.77: carcel
+[2025-10-31 00:55:50] [TELEPORT] _Kmi.77 fue a la cárcel - X:50.0, Y:50.0, Z:50.0
+[2025-10-31 00:56:32] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @baby__lax. ¡Estamos para ayudarte!‼️
+[2025-10-31 00:59:36] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 00:59:36] [WHISPER] CANTINERO_BOT: Bienvenido a🕷️NOCTURNO 🕷️. El velo se ha abierto solo para ti. Tu presencia es una nueva sombra en nuestra oscuridad.
+[2025-10-31 00:59:38] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 00:59:38] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 00:59:38] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 00:59:39] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 00:59:42] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:01:36] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Viernes! 🌙
+[2025-10-31 01:02:53] [CHAT] [PUBLIC] _Kmi.77: !tele @CANTINERO_BOT
+[2025-10-31 01:03:10] [CHAT] [PUBLIC] _Kmi.77: !vip @_Kmi.77
+[2025-10-31 01:03:21] [CHAT] [PUBLIC] _Kmi.77: !tele @CANTINERO_BOT
+[2025-10-31 01:03:37] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @baby__lax. ¡Estamos para ayudarte!‼️
+[2025-10-31 01:05:37] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Consigue tu VIP Permanente!💎 Para ser un miembro eterno de 🕷️ NOCTURNO 🕷️, Mándale 100 de oro al bot: @NOCTURNO_BOT. ¡Gracias por apoyar la oscuridad! [BOT_MENTION]
+[2025-10-31 01:06:27] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:06:27] [WHISPER] CANTINERO_BOT: Bienvenido a🕷️NOCTURNO 🕷️. El velo se ha abierto solo para ti. Tu presencia es una nueva sombra en nuestra oscuridad.
+[2025-10-31 01:06:29] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:06:29] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:06:29] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:06:30] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:06:33] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:07:07] [CHAT] [PUBLIC] _Kmi.77: !tele @CANTINERO_BOT
+[2025-10-31 01:08:27] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 01:14:43] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:14:45] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:14:45] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:14:45] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:14:45] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:14:48] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:15:14] [CHAT] [PUBLIC] _Kmi.77: !copyoutfit
+[2025-10-31 01:16:43] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 01:17:02] [CHAT] [PUBLIC] _Kmi.77: !copyoutfit
+[2025-10-31 01:17:14] [CHAT] [PUBLIC] _Kmi.77: !help
+[2025-10-31 01:18:24] [CHAT] [PUBLIC] _Kmi.77: !copy @CANTINERO_BOT
+[2025-10-31 01:19:30] [CHAT] [PUBLIC] _Kmi.77: ghostfloat
+[2025-10-31 01:25:09] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:25:11] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:25:11] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:25:11] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:25:11] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:25:14] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:30:39] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:30:41] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:30:41] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:30:41] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:30:41] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:30:44] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:33:47] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:33:49] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:33:49] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:33:49] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:33:49] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:33:52] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:34:51] [CHAT] [PUBLIC] _Kmi.77: @NOCTURNO_BOT [BOT_MENTION]
+[2025-10-31 01:35:04] [CALL] _Kmi.77 mencionó al bot cantinero
+[2025-10-31 01:35:04] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 *suena el teléfono* ¡Un momento!
+[2025-10-31 01:35:07] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 *contesta* ¿Sí? Habla @_Kmi.77, ¿en qué te puedo servir?
+[2025-10-31 01:35:11] [CHAT] [PUBLIC] CANTINERO_BOT: 🤔 Ajá... entiendo, entiendo...
+[2025-10-31 01:35:14] [CHAT] [PUBLIC] CANTINERO_BOT: 😊 ¡Claro que sí! Con gusto te atiendo.
+[2025-10-31 01:35:17] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 Perfecto @_Kmi.77, ya voy para allá. *cuelga*
+[2025-10-31 01:35:19] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que tengas excelente día! 🍻✨
+[2025-10-31 01:35:42] [CHAT] [PUBLIC] _Kmi.77: trago
+[2025-10-31 01:35:48] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 01:36:07] [CHAT] [PUBLIC] _Kmi.77: !trago @_Kmi.77
+[2025-10-31 01:36:07] [CHAT] [PUBLIC] CANTINERO_BOT: 🍹 Para @_Kmi.77: 🍸 Un martini shaken, not stirred. ¡Salud! 🥂
+[2025-10-31 01:36:31] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→4.0
+[2025-10-31 01:36:37] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→7.0
+[2025-10-31 01:36:41] [FLASHMODE] Auto-flashmode _Kmi.77: Y:7.0→12.0
+[2025-10-31 01:37:00] [FLASHMODE] Auto-flashmode _Kmi.77: Y:12.0→7.5
+[2025-10-31 01:37:22] [CALL] _Kmi.77 mencionó al bot cantinero
+[2025-10-31 01:37:23] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 *suena el teléfono* ¡Un momento!
+[2025-10-31 01:37:26] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 *contesta* ¿Sí? Habla @_Kmi.77, ¿en qué te puedo servir?
+[2025-10-31 01:37:30] [CHAT] [PUBLIC] CANTINERO_BOT: 🤔 Ajá... entiendo, entiendo...
+[2025-10-31 01:37:33] [CHAT] [PUBLIC] CANTINERO_BOT: 😊 ¡Claro que sí! Con gusto te atiendo.
+[2025-10-31 01:37:36] [CHAT] [PUBLIC] CANTINERO_BOT: 📞 Perfecto @_Kmi.77, ya voy para allá. *cuelga*
+[2025-10-31 01:37:38] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que tengas excelente día! 🍻✨
+[2025-10-31 01:37:48] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @_Kmi.77. ¡Estamos para ayudarte!‼️
+[2025-10-31 01:39:48] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Consigue tu VIP Permanente!💎 Para ser un miembro eterno de 🕷️ NOCTURNO 🕷️, Mándale 100 de oro al bot: @NOCTURNO_BOT. ¡Gracias por apoyar la oscuridad! [BOT_MENTION]
+[2025-10-31 01:41:48] [CHAT] [PUBLIC] CANTINERO_BOT: 👉🏼PIDE TU CANCIÓN FAVORITA EN LA JARRITA DE TIP👈🏼
+[2025-10-31 01:43:48] [CHAT] [PUBLIC] CANTINERO_BOT: Acércate a la barra.🥃 Estoy para servirle. ¿Qué deseas hoy?🍻
+[2025-10-31 01:45:11] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:45:11] [WHISPER] CANTINERO_BOT: Bienvenido a🕷️NOCTURNO 🕷️. El velo se ha abierto solo para ti. Tu presencia es una nueva sombra en nuestra oscuridad.
+[2025-10-31 01:45:13] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:45:13] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:45:13] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:45:14] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:45:17] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:45:41] [CHAT] [PUBLIC] _Kmi.77: !floss
+[2025-10-31 01:45:58] [CHAT] [PUBLIC] _Kmi.77: !floss
+[2025-10-31 01:48:04] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 01:48:22] [BOT] Bot ID almacenado: 681d54aa4cedce763169580f
+[2025-10-31 01:48:24] [BOT] Outfit NOCTURNO aplicado
+[2025-10-31 01:48:24] [BOT] Bot posicionado en spawn point: {'x': 9.5, 'y': 4.25, 'z': 23.5}
+[2025-10-31 01:48:24] [BOT] Bot inicializado en modo idle (ID: 681d54aa4cedce763169580f)
+[2025-10-31 01:48:24] [BOT] Ciclo automático de 224 emotes iniciado
+[2025-10-31 01:48:27] [BOT] Iniciando ciclo automático de 222 emotes gratuitos
+[2025-10-31 01:48:51] [CHAT] [PUBLIC] _Kmi.77: !floss
+[2025-10-31 01:48:51] [CHAT] [PUBLIC] CANTINERO_BOT: 💃 ¡A hacer floss, @_Kmi.77!
+[2025-10-31 01:49:23] [CHAT] [PUBLIC] _Kmi.77: !help
+[2025-10-31 01:49:46] [CHAT] [PUBLIC] _Kmi.77: !heartall
+[2025-10-31 01:49:58] [WHISPER] _Kmi.77: !heartall
+[2025-10-31 01:50:11] [CHAT] [PUBLIC] _Kmi.77: carcel
+[2025-10-31 01:50:11] [TELEPORT] _Kmi.77 fue a la cárcel - X:50.0, Y:50.0, Z:50.0
+[2025-10-31 01:50:21] [CHAT] [PUBLIC] _Kmi.77: pista
+[2025-10-31 01:50:21] [TELEPORT] _Kmi.77 accedió a 'pista' - X:11.5, Y:4.25, Z:23.5
+[2025-10-31 01:50:22] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 01:52:22] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @_Kmi.77. ¡Estamos para ayudarte!‼️
+[2025-10-31 01:54:22] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Consigue tu VIP Permanente!💎 Para ser un miembro eterno de 🕷️ NOCTURNO 🕷️, Mándale 100 de oro al bot: @NOCTURNO_BOT. ¡Gracias por apoyar la oscuridad! [BOT_MENTION]
+[2025-10-31 01:56:22] [CHAT] [PUBLIC] CANTINERO_BOT: 👉🏼PIDE TU CANCIÓN FAVORITA EN LA JARRITA DE TIP👈🏼
+[2025-10-31 01:58:23] [CHAT] [PUBLIC] CANTINERO_BOT: Acércate a la barra.🥃 Estoy para servirle. ¿Qué deseas hoy?🍻
+[2025-10-31 02:00:23] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Que pasen un feliz Jueves! 🌙
+[2025-10-31 02:02:23] [CHAT] [PUBLIC] CANTINERO_BOT: ‼️¿Sugerencias o incomodidades? Contacta a un miembro superior de la sala: envía un mensaje a @Alber_JG_69 o a @_Kmi.77. ¡Estamos para ayudarte!‼️
+[2025-10-31 02:04:23] [CHAT] [PUBLIC] CANTINERO_BOT: ¡Consigue tu VIP Permanente!💎 Para ser un miembro eterno de 🕷️ NOCTURNO 🕷️, Mándale 100 de oro al bot: @NOCTURNO_BOT. ¡Gracias por apoyar la oscuridad! [BOT_MENTION]
+[2025-10-31 02:06:23] [CHAT] [PUBLIC] CANTINERO_BOT: 👉🏼PIDE TU CANCIÓN FAVORITA EN LA JARRITA DE TIP👈🏼
+[2025-10-31 02:08:23] [CHAT] [PUBLIC] CANTINERO_BOT: Acércate a la barra.🥃 Estoy para servirle. ¿Qué deseas hoy?🍻
