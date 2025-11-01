@@ -1,2 +1,0 @@
-highrise-bot-sdk>=24.1.0
-asyncio>=4.0.0
