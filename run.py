@@ -1,143 +1,74 @@
 import asyncio
 import json
-import subprocess
-import sys
-import threading
-import time
+from highrise import Highrise
+from highrise import BaseBot
 
-def load_config(config_file):
-    """Carga la configuración desde un archivo JSON"""
+# === CARGAR CONFIG ===
+def load_config(file):
     try:
-        with open(config_file, "r", encoding="utf-8") as f:
+        with open(file, "r", encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        print(f"Error cargando {config_file}: {e}")
+        print(f"Error cargando {file}: {e}")
         return None
 
-def run_bot(bot_name, bot_file, room_id, api_token):
-    """Ejecuta un bot usando el SDK de Highrise"""
-    print(f"\n{'='*60}")
-    print(f"🤖 Iniciando {bot_name}")
-    print(f"{'='*60}\n")
-    
-    cmd = [
-        sys.executable,
-        "-m",
-        "highrise",
-        bot_file,
-        room_id,
-        api_token
-    ]
-    
-    process = None
-    while True:
-        try:
-            process = subprocess.Popen(
-                cmd,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.STDOUT,
-                text=True,
-                bufsize=1
-            )
-            
-            if process.stdout:
-                for line in process.stdout:
-                    print(f"[{bot_name}] {line}", end='')
-            
-            process.wait()
-            
-            if process.returncode != 0:
-                print(f"\n❌ {bot_name} terminó con código {process.returncode}")
-                print(f"🔄 Reiniciando {bot_name} en 5 segundos...")
-                time.sleep(5)
-            else:
-                print(f"\n✅ {bot_name} terminó normalmente")
-                break
-                
-        except KeyboardInterrupt:
-            print(f"\n⚠️ Deteniendo {bot_name}...")
-            if process:
-                process.kill()
-            break
-        except Exception as e:
-            print(f"\n❌ Error en {bot_name}: {e}")
-            print(f"🔄 Reiniciando {bot_name} en 5 segundos...")
-            time.sleep(5)
+# === BOT PRINCIPAL ===
+class BotPrincipal(BaseBot):
+    async def on_start(self):
+        print("Bot Principal conectado!")
 
-def main():
+    async def on_chat(self, user, message):
+        if message.lower() == "!hola":
+            await self.highrise.chat("¡Hola desde el Principal!")
+
+# === BOT CANTINERO ===
+class BartenderBot(BaseBot):
+    async def on_start(self):
+        print("Bot Cantinero conectado!")
+
+    async def on_chat(self, user, message):
+        if message.lower() == "!trago":
+            await self.highrise.chat("¡Aquí tienes tu trago!")
+
+# === MAIN ===
+async def main():
     print("\n" + "="*60)
-    print("🕷️  NOCTURNO BOTS LAUNCHER 🕷️")
+    print("NOCTURNO BOTS LAUNCHER")
     print("="*60 + "\n")
-    
+
+    # Cargar configs
     config_main = load_config("config.json")
     config_cantinero = load_config("cantinero_config.json")
-    
-    if not config_main:
-        print("❌ Error: No se pudo cargar config.json")
-        print("📝 Asegúrate de que el archivo existe y contiene:")
-        print("   - api_token: Token del bot principal")
-        print("   - room_id: ID de la sala")
+
+    if not config_main or not config_main.get("api_token") or not config_main.get("room_id"):
+        print("Falta config.json o datos")
         return
-    
-    if not config_cantinero:
-        print("❌ Error: No se pudo cargar cantinero_config.json")
-        print("📝 Asegúrate de que el archivo existe y contiene:")
-        print("   - api_token: Token del bot cantinero")
-        print("   - room_id: ID de la sala")
+
+    if not config_cantinero or not config_cantinero.get("api_token"):
+        print("Falta cantinero_config.json o token")
         return
-    
-    api_token_main = config_main.get("api_token")
-    room_id_main = config_main.get("room_id")
-    
-    api_token_cantinero = config_cantinero.get("api_token")
-    room_id_cantinero = config_cantinero.get("room_id", room_id_main)
-    
-    if not api_token_main or not room_id_main:
-        print("❌ Error: config.json debe contener 'api_token' y 'room_id'")
-        return
-    
-    if not api_token_cantinero:
-        print("❌ Error: cantinero_config.json debe contener 'api_token'")
-        return
-    
-    print("✅ Configuración cargada correctamente\n")
-    print("📋 Bots a ejecutar:")
-    print(f"   1. Bot Principal (main.py)")
-    print(f"   2. Bot Cantinero (cantinero_bot.py)")
-    print(f"\n🔗 Sala: {room_id_main}\n")
-    
-    # Iniciar automáticamente sin pedir confirmación
-    print("🚀 Iniciando bots automáticamente...\n")
-    
-    thread1 = threading.Thread(
-        target=run_bot,
-        args=("Bot Principal", "main:Bot", room_id_main, api_token_main),
-        daemon=True
-    )
-    
-    thread2 = threading.Thread(
-        target=run_bot,
-        args=("Bot Cantinero", "cantinero_bot:BartenderBot", room_id_cantinero, api_token_cantinero),
-        daemon=True
-    )
-    
-    thread1.start()
-    thread2.start()
-    
-    print("\n" + "="*60)
-    print("🚀 Ambos bots están corriendo")
-    print("⚠️  Presiona Ctrl+C para detener todos los bots")
-    print("="*60 + "\n")
-    
+
+    room_id = config_main["room_id"]
+
+    # Bot Principal
+    bot1 = BotPrincipal()
+    await bot1.highrise.connect(config_main["api_token"], room_id)
+
+    # Bot Cantinero
+    bot2 = BartenderBot()
+    await bot2.highrise.connect(config_cantinero["api_token"], room_id)
+
+    print(f"\nAmbos bots conectados a la sala: {room_id}")
+    print("Presiona Ctrl+C para detener\n")
+
+    # Mantener vivo
     try:
         while True:
-            time.sleep(1)
+            await asyncio.sleep(60)
     except KeyboardInterrupt:
-        print("\n\n" + "="*60)
-        print("⛔ Deteniendo todos los bots...")
-        print("="*60 + "\n")
-        print("✅ Bots detenidos correctamente")
-        print("👋 ¡Hasta pronto!\n")
+        print("\nDeteniendo bots...")
+        await bot1.highrise.close()
+        await bot2.highrise.close()
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
